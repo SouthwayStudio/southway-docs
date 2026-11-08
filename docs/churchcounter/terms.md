@@ -19,8 +19,13 @@ The application, its interface, design, and code are the exclusive property of S
 ## 5. Disclaimer of Warranties ("As Is")
 The application is provided on an **"AS IS"** and **"AS AVAILABLE"** basis without warranties of any kind, either express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement. We do not guarantee that the app will operate uninterrupted or error-free.
 
-## 6. Limitation of Liability
-To the maximum extent permitted by law, Southway Studio shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the application, including loss of counted data or records.
+## 6. Limitation of Liability and Data Loss
+In no event shall Southway Studio be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation:
+* Loss of data, match statistics, game history, attendance records, or saved configurations.
+* Technical failures, data corruption, storage errors, or device incompatibility.
+* Any disruption of use or financial loss resulting from the operation of the application.
+
+You acknowledge and agree that it is your responsibility to maintain independent records of critical data if needed. The app is provided without any guarantee that saved data will be permanently available, uncorrupted, or recoverable in the event of a system failure, update, or uninstallation.
 
 ## 7. Modifications to the Terms
 We may update these Terms from time to time. Continued use of AttendCount following the posting of changes constitutes your acceptance of those changes.

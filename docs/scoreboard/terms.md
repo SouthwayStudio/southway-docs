@@ -20,8 +20,13 @@ All rights, title, and interest in and to the application (including source code
 ## 5. Disclaimer of Warranties ("As Is")
 To the maximum extent permitted by applicable law, the application is provided **"AS IS"** and **"AS AVAILABLE"**, without warranties of any kind, whether express or implied. The developer does not warrant that the application will be uninterrupted, error-free, completely secure, or fit for any specific purpose. You use the application at your own risk.
 
-## 6. Limitation of Liability
-In no event shall Southway Studio be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data, profits, or match records, arising out of or in connection with your use or inability to use the application. The total liability of the developer for any claims under these terms is limited to the amount actually paid by you (if any) for the application or subscription during the past 12 months.
+## 6. Limitation of Liability and Data Loss
+In no event shall Southway Studio be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation:
+* Loss of data, match statistics, game history, attendance records, or saved configurations.
+* Technical failures, data corruption, storage errors, or device incompatibility.
+* Any disruption of use or financial loss resulting from the operation of the application.
+
+You acknowledge and agree that it is your responsibility to maintain independent records of critical data if needed. The app is provided without any guarantee that saved data will be permanently available, uncorrupted, or recoverable in the event of a system failure, update, or uninstallation.
 
 ## 7. Changes to These Terms
 We reserve the right to modify or update these Terms of Service at any time. Any changes will be posted within this document with an updated revision date. Continued use of the application after changes constitute your acceptance of the new terms.
