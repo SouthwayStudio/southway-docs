@@ -2,31 +2,33 @@
 
 **Última actualización:** 22/12/2025
 
-Esta aplicación ("Scoreboard") respeta y protege la privacidad de sus usuarios. Esta política de privacidad explica cómo se recopila, utiliza y protege la información cuando utilizas nuestra aplicación móvil.
+Esta aplicación (en adelante, “la App”) ha sido desarrollada con fines deportivos y recreativos, y está destinada a facilitar el control de marcador, tiempos y otros datos relacionados con partidos de baloncesto.
 
-## 1. Información que recopilamos
-Nuestra aplicación está diseñada para funcionar de forma local en tu dispositivo. 
-* **Datos personales:** No recopilamos información personal identificable (como nombres, direcciones de correo electrónico, números de teléfono o ubicaciones precisas) a menos que decidas proporcionarla voluntariamente al contactarnos.
-* **Datos de uso y análisis:** Podemos recopilar información técnica básica y anónima sobre el rendimiento de la aplicación y el registro de errores para mejorar la estabilidad y la experiencia del usuario a través de los servicios estándar de Google Play.
+## 1. Recopilación de información personal
+La App no recopila, almacena ni transmite información personal de los usuarios.
+En particular:
+* No se solicitan datos personales como nombre, correo electrónico, número de teléfono o ubicación.
+* No se recopilan identificadores del dispositivo.
+* No se realiza seguimiento del uso con fines analíticos.
+* No se envía información a servidores externos.
+Toda la información introducida por el usuario (por ejemplo, marcadores, tiempos o configuraciones) se almacena únicamente de forma local en el dispositivo, y es gestionada exclusivamente por el propio usuario.
 
-## 2. Uso de la información
-La escasa información técnica o de diagnóstico que se recopila se utiliza exclusivamente para:
-* Mantener y mejorar el funcionamiento de la aplicación.
-* Diagnosticar fallos técnicos y optimizar el rendimiento del cronómetro y los contadores.
+## 2. Permisos
+La App solo solicita los permisos estrictamente necesarios para su correcto funcionamiento.
+No se accede a contactos, cámara, micrófono, ubicación ni a ningún otro recurso sensible del dispositivo.
 
-## 3. Compras dentro de la aplicación y Suscripciones
-Si decides adquirir funciones Pro o realizar suscripciones a través de Google Play:
-* Todos los pagos y transacciones son procesados de forma segura por **Google Play Store**. 
-* Nosotros **no** tenemos acceso a tus datos bancarios, números de tarjeta de crédito o información financiera confidencial.
+## 3. Compartición de información
+La App no comparte datos con terceros, ya que no recopila información personal ni técnica de los usuarios.
 
-## 4. Seguridad de los datos
-Nos comprometemos a garantizar que tu información esté segura. Dado que gran parte de los datos de los partidos se almacenan localmente en tu dispositivo, no exponemos tus registros deportivos a servidores externos innecesarios.
+## 4. Seguridad
+Dado que la App funciona de manera local y sin transmisión de datos, no existe riesgo de exposición de información personal a través de servidores externos.
+No obstante, el usuario es responsable de la seguridad de su propio dispositivo.
 
-## 5. Cambios en esta Política de Privacidad
-Podemos actualizar nuestra política de privacidad ocasionalmente. Te recomendamos revisar esta página periódicamente para ver cualquier cambio. Los cambios entran en vigencia inmediatamente después de su publicación en esta página.
+## 5. Cambios en esta política
+En caso de que en el futuro la App incorpore nuevas funcionalidades que impliquen recopilación o tratamiento de datos, esta política será actualizada y los usuarios serán informados adecuadamente.
 
 ## 6. Contacto
-Si tienes alguna pregunta o sugerencia sobre esta Política de Privacidad, no dudes en contactarnos a través de nuestro correo de soporte o canales oficiales del desarrollador.
+Si tienes preguntas sobre esta Política de Privacidad, puedes contactar con el desarrollador a través del correo indicado en la ficha de Google Play.
 
 # Deslinde de Responsabilidad y Garantías
 ## 1. Uso de la aplicación
