@@ -19,4 +19,4 @@ No compartimos, vendemos ni alquilamos información de los usuarios con terceros
 Nos reservamos el derecho de actualizar o modificar esta política de privacidad en cualquier momento. Cualquier cambio será reflejado en esta misma dirección web con su respectiva fecha de actualización.
 
 ## 5. Contacto
-Si tienes dudas, comentarios o consultas vinculadas a la privacidad en AttendCount, puedes ponerte en contacto directamente con el desarrollador a través de los canales de soporte de la tienda de aplicaciones.
+Si tienes dudas, comentarios o consultas vinculadas a la privacidad en AttendCount, puedes ponerte en contacto directamente con el desarrollador a través de los canales de soporte de la tienda de aplicaciones. 
