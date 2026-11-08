@@ -20,3 +20,29 @@ Nos reservamos el derecho de actualizar o modificar esta política de privacidad
 
 ## 5. Contacto
 Si tienes dudas, comentarios o consultas vinculadas a la privacidad en AttendCount, puedes ponerte en contacto directamente con el desarrollador a través de los canales de soporte de la tienda de aplicaciones. 
+
+# Deslinde de Responsabilidad y Garantías
+## 1. Uso de la aplicación
+La App se proporciona “tal cual”, con fines informativos y de apoyo a instituciones, y no sustituye sistemas oficiales de conteo de personas.
+El uso de la App es responsabilidad exclusiva del usuario.
+
+## 2. Exactitud de la información
+Aunque la App ha sido desarrollada con el objetivo de ofrecer un funcionamiento fiable, no se garantiza la ausencia total de errores, interrupciones o imprecisiones derivadas de:
+* Fallos del dispositivo
+* Uso incorrecto
+* Condiciones externas (batería, sistema operativo, etc.)
+El desarrollador no se responsabiliza de decisiones tomadas basándose en la información mostrada por la App.
+
+## 3. Uso en competiciones oficiales
+La App no está certificada para su uso en competiciones oficiales, salvo que el reglamento de la competición lo permita expresamente.
+El usuario debe verificar si su uso está autorizado en cada contexto.
+
+## 4. Responsabilidad limitada
+En la máxima medida permitida por la legislación aplicable, el desarrollador no será responsable por:
+* Daños directos o indirectos
+* Pérdida de datos
+* Pérdida de resultados
+* Conflictos derivados del uso de la App durante partidos o eventos
+
+## 5. Garantías
+No se ofrece ninguna garantía explícita o implícita de funcionamiento ininterrumpido, precisión absoluta o adecuación para un propósito específico.

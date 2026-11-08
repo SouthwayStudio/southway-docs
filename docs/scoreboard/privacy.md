@@ -27,3 +27,29 @@ Podemos actualizar nuestra política de privacidad ocasionalmente. Te recomendam
 
 ## 6. Contacto
 Si tienes alguna pregunta o sugerencia sobre esta Política de Privacidad, no dudes en contactarnos a través de nuestro correo de soporte o canales oficiales del desarrollador.
+
+# Deslinde de Responsabilidad y Garantías
+## 1. Uso de la aplicación
+La App se proporciona “tal cual”, con fines informativos y de apoyo a instituciones, y no sustituye sistemas oficiales de conteo de personas.
+El uso de la App es responsabilidad exclusiva del usuario.
+
+## 2. Exactitud de la información
+Aunque la App ha sido desarrollada con el objetivo de ofrecer un funcionamiento fiable, no se garantiza la ausencia total de errores, interrupciones o imprecisiones derivadas de:
+* Fallos del dispositivo
+* Uso incorrecto
+* Condiciones externas (batería, sistema operativo, etc.)
+El desarrollador no se responsabiliza de decisiones tomadas basándose en la información mostrada por la App.
+
+## 3. Uso en competiciones oficiales
+La App no está certificada para su uso en competiciones oficiales, salvo que el reglamento de la competición lo permita expresamente.
+El usuario debe verificar si su uso está autorizado en cada contexto.
+
+## 4. Responsabilidad limitada
+En la máxima medida permitida por la legislación aplicable, el desarrollador no será responsable por:
+* Daños directos o indirectos
+* Pérdida de datos
+* Pérdida de resultados
+* Conflictos derivados del uso de la App durante partidos o eventos
+
+## 5. Garantías
+No se ofrece ninguna garantía explícita o implícita de funcionamiento ininterrumpido, precisión absoluta o adecuación para un propósito específico.
